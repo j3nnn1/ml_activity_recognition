@@ -25,3 +25,5 @@ Prediction    A    B    C    D    E
          D  0.0  0.0  0.2 16.0  0.1
          E  0.0  0.0  0.0  0.0 18.3
 
+* later another model set CV with 10 folds and increase a bit the accuraccy. this can see in  pca_view_rf_cv.r
+
